@@ -1,0 +1,11 @@
+{
+  "version": "1.0.7",
+  "notes": "RiukyoX v1.0.7 — Otimizações extremas de performance (LTO), GPU Layer Promotion no WebView2 e respostas IPC em menos de 0.01ms.",
+  "pub_date": "2026-07-27T05:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "",
+      "url": "https://github.com/Riukyo/RiukyoX/releases/download/v1.0.7/riukyox-wizard.exe"
+    }
+  }
+}
